@@ -1,4 +1,4 @@
-//package reentrantlocktest;
+package reentrantlocktest;
 
 import java.util.concurrent.TimeUnit;
 import java.lang.management.ThreadMXBean;
